@@ -1,0 +1,2 @@
+git commit -m "DEV-5 Membuat Fitur Rekomendasi Teknologi Energi" 
+SYEPRIA BILQIIS YOSYA - 102042300139
